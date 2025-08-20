@@ -60,9 +60,13 @@
 </div>
 
 ###
+![snake gif](https://github.com/beneditomanhice/beneditomanhice/blob/output/github-contribution-grid-snake.svg)
+
+
+[![snake gif](https://github.com/beneditomanhice/beneditomanhice/blob/output/github-contribution-grid-snake.svg)
+###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="right" height="150" src="https://imgflip.com/gif/a3o424"  />
 
 ###
 
@@ -80,12 +84,7 @@
 
 ###
 
-###
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/beneditomanhice/beneditomanhice/output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/beneditomannhice/beneditomannhice/output/snake.svg" alt="Snake animation" />
 
 ###
 
