@@ -25,6 +25,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.como/beneditomanhice/beneditomanhice/output/pacman-contribution-graph.svg">
 </picture>
 
+<br clear="both">
+
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beneditomanhice/beneditomanhice/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beneditomanhice/beneditomanhice/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beneditomanhice/beneditomanhice/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -37,24 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-<br clear="both">
-
-<picture align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beneditomanhice/beneditomanhice/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beneditomanhice/beneditomanhice/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beneditomanhice/beneditomanhice/output/github-contribution-grid-snake.svg">
-</picture>
-
 ###
-
-<div style="display: inline_block" align="center"><br>
-   <div align="center">
- 
-  
-</div>
-</div>
-  
-###
-
 
  <img src="https://github-profile-trophy.vercel.app?username=beneditomanhice&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
