@@ -4,12 +4,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=Im+Benedito+Manhice,+Thanks+for+coming+!" alt="Typing SVG">
   </a>
 </div>
+<h2>
+<p>🎓 Estudante do último ano em Administração de Sistemas de Informação e Redes</p>  
+<p>💻 Apaixonado por programação web e pela ideia de transformar código em soluções reais</p>  
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+</h2>
 <div align="center"> 
-  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/heismanhice" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ditomanhice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/benedito-manhice-459b20327" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/beneditomannhice" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue" target="_blank"></a> 
+  <h2 align="center">☎ Contacto</h2>
 </div> 
 
 ###
@@ -44,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <h2 align="center">Tecnologias & Ferramentas</h2>
 </div>
 
 ###
