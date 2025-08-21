@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=Im+Benedito+Manhice,+Thanks+for+coming+!" alt="Typing SVG">
   </a>
 </div>
-<h2>
+<h3>
 <p>🎓 Estudante do último ano em Administração de Sistemas de Informação e Redes</p>  
 <p>💻 Apaixonado por programação web e pela ideia de transformar código em soluções reais</p>  
 <p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
-</h2>
+</h3>
 <div align="center"> 
   <a href="https://www.instagram.com/heismanhice" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ditomanhice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
