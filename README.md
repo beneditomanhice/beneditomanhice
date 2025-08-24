@@ -11,6 +11,7 @@
 
 <div align="center">
 <h3>
+<p>😴 Debuging bugs</p>  
 <p>🎓 Estudante do último ano em Administração de Sistemas de Informação e Redes</p>  
 <p>💻 Apaixonado por programação web e pela ideia de transformar código em soluções reais</p>  
 <p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
@@ -42,7 +43,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
