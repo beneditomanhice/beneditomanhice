@@ -1,0 +1,50 @@
+body {
+    background-image: url(assets/img/background/background1.jpeg);
+}
+
+nav {
+     background-color: #193653;
+    
+}
+
+ul {
+   color: beige;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    font-size: 18px;
+    box-sizing: border-box;
+    
+    /*font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    @font-face {
+        font-family: 'yeah';
+        src: url(assets/fonts/static/DMSans-SemiBold.ttf);
+    }
+    */
+}
+
+
+
+header {
+    background-color: #1a182e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    font-size: 18px;
+}
+
+.search-bar {
+    position: relative;
+    background-color: #ffff;
+    min-height: 10px;
+    height: 40px;
+    display: flex;
+    overflow: hidden;
+    
+}
+
+main {
+   
+}
