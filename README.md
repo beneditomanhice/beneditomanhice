@@ -61,8 +61,3 @@
   
   <h2 align="center">☎ Contacto</h2>
 </div> 
-
-<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
-<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
-<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
-<p>🚀
