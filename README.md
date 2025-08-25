@@ -15,7 +15,6 @@
 <p>🎓 Estudante do último ano em Administração de Sistemas de Informação e Redes</p>  
 <p>💻 Apaixonado por programação web e pela ideia de transformar código em soluções reais</p>  
 <p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
-  <p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
 </h3>
   <h2 align="center">👨‍💼 Sobre mim</h2>
 </div>
@@ -62,3 +61,14 @@
   
   <h2 align="center">☎ Contacto</h2>
 </div> 
+
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
