@@ -70,5 +70,4 @@
 <p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
 <p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
 <p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
-<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
-<p>🚀 Determinado a evoluir todos os dias e a construir projetos que mostrem minha jornada</p>
+<p>🚀 Determinado a evoluir todos os dias e a construi
