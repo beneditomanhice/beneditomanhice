@@ -61,8 +61,3 @@
   
   <h2 align="center">☎ Contacto</h2>
 </div> 
-
-<p>😴 Debuging bugs</p> 
-<p>😴 Debuging bugs</p> 
-<p>😴 Debuging bugs</p> 
-
