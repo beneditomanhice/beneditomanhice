@@ -71,9 +71,4 @@ xshudjigomvnhfdbuer
 eyivkfodkknhyimg
 ecggjofmgjfdfdhjgpo
 hkfyuhgionmjfbgd
-gyrhº
-
-ºçl
-urg
-r´guij+çh
-sºt
+gyr
