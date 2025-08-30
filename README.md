@@ -68,7 +68,4 @@
 uuisrhudcsdcdvdsucdubcsdvufvuifbvfbvfgsbfhvcae.hfulihfiuker
 edetuirjegkomhgsydhsdijotr
 xshudjigomvnhfdbuer
-eyivkfodkknhyimg
-ecggjofmgjfdfdhjgpo
-hkfyuhgionmjfbgd
-gyr
+eyivkfodkknhyim
