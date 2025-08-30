@@ -60,9 +60,4 @@
   <a href="https://github.com/beneditomannhice" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue" target="_blank"></a> 
   
   <h2 align="center">☎ Contacto</h2>
-</div> 
-
-
-
-
-uuisrhudc
+</div>
