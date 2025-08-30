@@ -76,6 +76,4 @@ gyrhº
 ºçl
 urg
 r´guij+çh
-sºtrt
-çth
-ptº
+sºt
