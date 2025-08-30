@@ -6,66 +6,158 @@
     <title>Mente Nutrida - Livraria Online</title>
     <link rel="shortcut icon" href="assets/img/logo/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="index.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
 </head>
+
+<!-- 
+  Este código HTML foi desenvolvido como exercício de prática,
+  inspirado no site verdadeiro da Livraria Online "Mente Nutrida".
+  O objetivo é treinar e aprimorar habilidades em HTML e CSS,
+  sem fins comerciais, apenas para estudo e aprendizado.
+-->
+
+
 <body>
-    <div>
-        <nav>
+   <div class="topo">
+        <div class="contacto"><img src="assets/svg/asset 17.svg" alt="telefone" height="18"><div>+258 87 950 0324</div></div>
+        <div class="slogan">Revolucionamos vidas através do conhecimento</div>
+        <div>
+           <ul class="social">
+                <li><img src="assets/svg/asset 18.svg" alt="facebook" height="15"></li>
+                <li><img src="assets/svg/asset 19.svg" alt="instagram" height="15"></li>
+                <li><img src="assets/svg/asset 20.svg" alt="treands" height="15"></li>
+            </ul>
+        </div>
+   </div>
+   <header>
+        <nav class="nav">
+            <div class="logo"><img src="assets/img/logo/logo.png" alt="logotipo" height="70"></div>
             <ul>
-                <ol>
-                    <img src="assets/svg/asset 17.svg" alt="Celular" height="15"> +258 87 950 0324</img>
-                </ol>
-                <ol>
-                    <div>Revolucionamos vidas através do conhecimento</div>
-                </ol>
-                <ol>
-                    <img src="assets/svg/asset 18.svg" alt="facebook" height="15">
-                    <img src="assets/svg/asset 19.svg" alt="instagram" height="15">
-                    <img src="assets/svg/asset 20.svg" alt="treands" height="15">
-                </ol>
+                <b class="menu">
+                    <li class="home">Home</li>
+                    <li class="sobre_nos">Sobre Nós</li>
+                    <li class="loja">Loja <img src="assets/svg/asset 21.svg" alt="expandir" height="20"></li>
+                    <li class="blog">Blog</li>
+                    <li class="menu_contacto">Contacto</li>
+                </b>
+            </ul>
+            <ul class="search-bar">
+                <li><input type="text" placeholder="Procure por seu livro favorito"></li>
+                <li class="search"><button><img src="assets/svg/asset 25.svg" alt="pesquisar" height="20"></button></li>
+            </ul>
+            <ul class="store-user">
+                <li><img src="assets/svg/asset 26.svg" alt="compras" height="20"></li>
+                <li><img src="assets/svg/asset 27.svg" alt="usuario" height="20"></li>
             </ul>
         </nav>
-    </div>
-    <div>
-        <header>
-            <ul>
-                <ol>
-                <img src="assets/img/logo/logo.png" alt="facebook" height="75">
-                </ol>
-                <ol>
-                    <div>Home</div>
-                </ol>
-                <ol>
-                    <div>Sobre Nós</div>
-                </ol>
-                <ol>
-                    <div>Loja <img src="assets/svg/asset 21.svg" alt="" height="20"> </div>
-                </ol>
-                <ol>
-                    <div>Blog</div>
-                </ol>
-                <ol>
-                    <div>Contacto</div>
-                </ol>
-                <ol>
-                    <form class="search-bar" method="get">
-                        <input type="search" id="inputSearch" placeholder="Procure por seu livro favorito">
-                        <label for="inputSearch"><span class="icon"></span></label>
-                    </form>
-                </ol>
-                <ol>
-                <img src="assets/svg/asset 26.svg" alt="facebook" height="20">
-                </ol>
-                <ol>
-                <img src="assets/svg/asset 27.svg" alt="facebook" height="20">
-                </ol>
+   </header>
+
+   <main>
+    <div class="overlay"></div>
+        <div class="Principal">    
+                <h1>Nutra a Sua Mente com </h1>
+                <h1>Livros Atemporais</h1>
+                <p>Dos clássicos atemporais aos lançamentos mais recentes, temos livros para todas as idades e<br> gostos. Explore a nossa loja, aproveite as promoções e mergulhe em novas histórias hoje<br> mesmo. A sua próxima leitura está á sua espera!</p>
+                <button>Comprar Agora <img src="assets/svg/asset 29.svg" alt="usuario" height="10"></button>
+        </div>
+    </main>
+
+   <section class="outros">
+        <div class="entrega">
+            <img src="assets/svg/asset 34.svg" alt="entregas" height="30">
+            <div>
+                <h3>Entregas Garantidas</h3>
+                <p>Entregas Rápidas em Todo o <br> País.</p>
+            </div>
+        </div>
+        <div class="linha-vertical"></div>
+        <div  class="horario">
+            <img src="assets/svg/asset 35.svg" alt="horario" height="35">
+            <div>
+                <h3>Atendimento 24h</h3>
+                <p>Apoio Dedicado a Qualquer <br> Hora.</p>
+            </div>
+        </div>
+        <div class="linha-vertical"></div>
+        <div class="cartao">
+            <img src="assets/svg/asset 36.svg" alt="cartao" height="30">
+            <div>
+                <h3>Pagamento Seguro</h3>
+                <p>Compras Seguras e Simples.</p>
+            </div>
+        </div>
+        <div class="linha-vertical"></div>
+        <div class="encomenda">
+            <img src="assets/svg/asset 37.svg" alt="encomenda" height="30">
+            <div>
+                <h3>Encomenda o livro</h3>
+                <p>Não encontrou o livro que <br> procura? Encomenda Agora!</p>
+            </div>
+        </div>
+   </section>
+   
+   <section>
+    <div class="footerlay"></div>
+        <div  class="footer-up">
+            <div class="footer-logo">
+                <ul>
+                    <li><img src="assets/img/logo/logo.png" alt="logotipo" height="75"></li>
+                    <li><p>A Mente Nutrida é uma plataforma criada para compartilhar a <br> paixão por livros de forma prática e acessível. Desde sua <br> fundação, dedica-se a promover a cultura da leitura, facilitndo <br> o acesso a livros de qualidade para todos os leitores.</p></li>
+                    <li>
+                        <div class="footer-social">
+                            <img src="assets/svg/asset 18.svg" alt="facebook" height="15">
+                            <img src="assets/svg/asset 19.svg" alt="instagram" height="15">
+                            <img src="assets/svg/asset 38.svg" alt="treands" height="15">
+                        </div>
+                    </li>
             </ul>
-        </header>
-    </div>
-    <div>
-        <main>
-            <div></div>
-        </main>
-    </div>
-    
+            </div>
+            <div class="list">
+                <div>
+                    <h3>Categorias</h3>
+                    <div class="linha-horizontal-categorias"></div>
+                    <ul>
+                        <li class="romance"><p>Romance</p></li>
+                        <li class="ffc"><p>Fantasia e Ficção Científica</p></li>
+                        <li class="dp"><p>Desenvolvimento Pessoal</p></li>
+                        <li class="nf"><p>Negócios e Finanças</p></li>
+                        <li class="lf"><p>Literatura e Ficção</p></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Centro de Ajuda</h3>
+                    <div class="linha-horizontal-ajuda"></div>
+                    <ul>
+                        <li class="cj"><p>Centro de Ajuda</p></li>
+                        <li class="faq"><p>FAQ</p></li>
+                        <li class="mc"><p>Minha conta</p></li>
+                        <li class="pd"><p>Política de devolução</p></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Empresa</h3>
+                    <div class="linha-horizontal-empresa"></div>
+                    <ul>
+                        <li class="sn"><p>Sobre Nós</p></li>
+                        <li class="loja"><p>Loja</p></li>
+                        <li class="blog"><p>Blog</p></li>
+                        <li class="contact"><p>Contactos</p></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+   </section>
+   <footer class="footer-down">
+        <div>
+            <p>Copyright &copy 2025 Livraria Mente Nutrida.</p>
+        </div>
+        <div class="pub">
+            <img src="assets/img/logo/add.png" alt="publicidade" height="30">
+            <img src="assets/svg/asset 39.svg" alt="compras" height="30">
+        </div>
+   </footer>
 </body>
 </html>
